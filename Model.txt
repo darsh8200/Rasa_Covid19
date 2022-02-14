@@ -1,0 +1,1 @@
+#Train the rasa model to get the rasa trained model file.
